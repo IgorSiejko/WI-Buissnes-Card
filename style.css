@@ -1,0 +1,92 @@
+
+#buisnessCard
+{
+    font-size: 8px;
+    width: 8.5cm;
+    height: 5cm;
+    border: solid 1px black;
+    display: flex;
+    color: white;
+    background-image: linear-gradient(to right, #2a3568,#2d3a75, #324180);
+   
+  
+
+}
+#card
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.company
+{
+    font-size: 1cm;
+}
+#first
+{
+    display: flex;
+    height: 5cm;
+    width: 4.25cm;
+
+    justify-content: center;;
+    align-items: center;
+    
+    
+}
+
+#second
+{
+    width: 4.25cm;
+ 
+  
+}
+#data
+{
+    display: flex;
+    height: 3cm;
+    width: 4.25cm;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+    
+}
+#data div
+{
+  
+    width: 4.25cm;
+    font-size: 3mm;
+    display: inline-block;
+}
+#service
+{
+
+    height: 2cm;
+    width: 4.25cm;
+
+  
+    display: inline-block;
+    align-items: center;
+}
+ul
+{
+
+    list-style-type: none;
+    font-size: 3mm;
+    padding: 0px;
+  
+}
+li
+{
+
+    width: 4.25cm;
+    text-align: center;
+}
+#style
+{
+   
+    height: 2cm;
+    width: 4.25cm;
+    background-color: black;
+
+}
